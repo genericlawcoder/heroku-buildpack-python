@@ -3,6 +3,12 @@ id = "genericlawcoder/heroku-buildpack-python-main"
 name = "Heroku Buildpack Python Main"
 version = "1.0.0"
 
+[[stacks]]
+id = "io.buildpacks.stacks.bionic"
+
+[[stacks]]
+id = "io.buildpacks.stacks.focal"
+
 [publish.Ignore]
 files = [
   ".github/",
