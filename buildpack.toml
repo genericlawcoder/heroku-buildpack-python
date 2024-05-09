@@ -2,7 +2,7 @@
 id = "genericlawcoder/heroku-buildpack-python-main"
 name = "Heroku Buildpack Python Main"
 version = "1.0.0"
-api = "0.2"
+api = "0.3"
 
 [[stacks]]
 id = "heroku-18"
