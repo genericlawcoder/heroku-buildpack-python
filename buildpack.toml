@@ -1,5 +1,7 @@
 [buildpack]
-name = "Python"
+id = "genericlawcoder/heroku-buildpack-python-main"
+name = "Heroku Buildpack Python Main"
+version = "1.0.0"
 
 [publish.Ignore]
 files = [
